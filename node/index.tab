@@ -1,0 +1,2 @@
+v12.22.0	2021-03-30	aix-ppc64,headers,linux-arm64,linux-armv7l,linux-ppc64le,linux-s390x,linux-x64,osx-x64-pkg,osx-x64-tar,src,sunos-x64,win-x64-7z,win-x64-exe,win-x64-msi,win-x64-zip,win-x86-7z,win-x86-exe,win-x86-msi,win-x86-zip	6.14.11	7.8.279.23	1.40.0	1.2.11	1.1.1j	72	Erbium	-
+v16.4.0	2021-06-23	aix-ppc64,headers,linux-arm64,linux-armv7l,linux-ppc64le,linux-s390x,linux-x64,osx-arm64-tar,osx-x64-pkg,osx-x64-tar,src,win-x64-7z,win-x64-exe,win-x64-msi,win-x64-zip,win-x86-7z,win-x86-exe,win-x86-msi,win-x86-zip	7.18.1	9.1.269.36	1.41.0	1.2.11	1.1.1k+quic	93	-	-
